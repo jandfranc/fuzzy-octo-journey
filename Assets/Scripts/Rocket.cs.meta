@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 22e77f88ea3da4d4c9a163f3996de0cc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mainEngineSound: {fileID: 8300000, guid: a380364fcc71b264992c25580d977a30, type: 3}
+  - crashSound: {fileID: 8300000, guid: bc19c8987b17b6b4db09ae98b15cd6a3, type: 3}
+  - levelCompleteSound: {fileID: 8300000, guid: 46f33a00fdae9754daaf33c696beadcc,
+      type: 3}
+  - starboardParticles: {instanceID: 0}
+  - portParticles: {instanceID: 0}
+  - successParticles: {instanceID: 0}
+  - crashParticles: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
